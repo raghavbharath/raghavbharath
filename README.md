@@ -2,7 +2,7 @@
 -  I’m very passionate about software development, electronics, and the integration of the two
 -  I'm seeking internships in Software Engineering, Robotics, Embedded Systems, and Chip Design
 -  I’m currently studying Computer Engineering and Computer Science at the NJIT Honors College
--  You can reach out to me through email at raghav4357@gmail.com or on LinkedIn through https://www.linkedin.com/in/raghav-bharath
+-  Feel free to connect with me through email at raghav4357@gmail.com or through LinkedIn at https://www.linkedin.com/in/raghav-bharath
 -  Hobbies: I enjoy basketball, boxing, and learning about space
 
 <!---
