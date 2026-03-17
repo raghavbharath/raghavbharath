@@ -1,11 +1,22 @@
--  Hi, I’m Raghav Bharathan
--  I’m very passionate about software development, electronics, and the integration of the two
--  I'm seeking internships in Software Engineering, Robotics, Embedded Systems, and Chip Design
--  I’m currently studying Computer Engineering and Computer Science at the NJIT Honors College
--  Feel free to connect with me via email at raghav4357@gmail.com or LinkedIn at https://www.linkedin.com/in/raghav-bharath
--  Hobbies: I enjoy basketball, boxing, and learning about space
+# Hi, I'm Raghav! 
 
-<!---
-raghavbharath/raghavbharath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Computer Engineering** junior at the **NJIT Albert Dorman Honors College** (Class of 2027), minoring in **Computer Science**. I really enjoy working at the intersection of hardware and firmware, from schematic capture and PCB layout to bare-metal drivers and RTOS task architecture. I'm trying to always be in the middle of some project or another, and I'm looking to bring that same energy into an internship or co-op.
+
+### What I'm currently working on:
+-  **Wearable Audio Device PCB**: A 6-layer board in KiCad around the STM32H743 (Cortex-M7, 480MHz), with a full power management block, Bluetooth audio via an integrated BT module, multi-mic audio processing through an I2S/TDM codec, on-device ML inference via X-CUBE-AI, and a FreeRTOS task architecture handling audio capture, inference, and wireless comms concurrently. The project is still in its early phases, but I'll update my GitHub repository soon.
+- **Robotics Research Lab**: Designing custom  ESP32 firmware under FreeRTOS for swarm robotics systems, with sensor fusion (IMU, color). Also developing an RL simulation environment in MuJoCo and RoboDK for dexterous robotic hand manipulation, and building a contact-mic acoustic sensing system with DSP (STFT/FFT) for interaction classification.
+
+
+### Skills
+| Stack | Tools |
+|---|---|
+| Languages | C, C++, Python, MATLAB, Java, Scala, SQL, Verilog, VHDL, Assembly (RISC-V, ARM Cortex-M) |
+| Embedded & Firmware | STM32 HAL, FreeRTOS, ESP-IDF, X-CUBE-AI, OpenOCD, JTAG/SWD |
+| PCB & Hardware | KiCad, STM32CubeIDE, STM32CubeMX, Fusion 360, Oscilloscope, Multimeter, Logic Analyzer |
+| Software & Tools | Linux (Ubuntu), Git, CMake, GDB, PlatformIO, Jira, Jenkins, Gem5, ROS2 |
+| Libraries & Frameworks | PyTorch, NumPy, Matplotlib, OpenCV, Scikit-Learn, MuJoCo |
+
+### Let's Connect
+Outside of engineering, I'm into basketball, boxing, and anything to do with space and the universe. If any of that resonates, or you just want to talk projects, feel free to reach out!
+
+📬 raghav4357@gmail.com · [LinkedIn](https://www.linkedin.com/in/raghav-bharath)
