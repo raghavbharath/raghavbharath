@@ -4,7 +4,7 @@ I'm a **Computer Engineering** junior at the **NJIT Albert Dorman Honors College
 
 ### What I'm currently working on:
 -  **Wearable Audio Device PCB**: A 6-layer board in KiCad around the STM32H743 (Cortex-M7, 480MHz), with a full power management block, Bluetooth audio via an integrated BT module, multi-mic audio processing through an I2S/TDM codec, on-device ML inference via X-CUBE-AI, and a FreeRTOS task architecture handling audio capture, inference, and wireless comms concurrently. The project is still in its early phases, but I'll update my GitHub repository soon.
-- **Robotics Research Lab**: Developing an RL simulation environment in MuJoCo and RoboDK for dexterous robotic hand manipulation, and building a contact-mic acoustic sensing system with DSP (STFT/FFT) using Python and C++ for interaction classification.
+- **Robotics Research**: Developing an RL simulation environment in MuJoCo and RoboDK for dexterous robotic hand manipulation, and building a contact-mic acoustic sensing system with DSP (STFT/FFT) using Python and C++ for interaction classification.
 
 
 ### Skills
