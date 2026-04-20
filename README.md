@@ -1,6 +1,6 @@
 # Hi, I'm Raghav! 
 
-I'm a **Computer Engineering** junior at the **NJIT Albert Dorman Honors College** (Class of 2027), minoring in **Computer Science**. I really enjoy working at the intersection of hardware and firmware, from schematic capture and PCB layout to bare-metal drivers and RTOS task architecture. I'm trying to always be in the middle of some project or another, and I'm looking to bring that same energy into an internship or co-op.
+I'm a **Computer Engineering** junior at the **NJIT Albert Dorman Honors College** (Class of 2027), minoring in **Applied Mathematics**. I really enjoy working at the intersection of hardware and firmware, from schematic capture and PCB layout to bare-metal drivers and RTOS task architecture. I'm trying to always be in the middle of some project or another, and I'm looking to bring that same energy into an internship or co-op.
 
 ### What I'm currently working on:
 - **[Logic Analyzer](https://github.com/ragusauce4357/ECE692-Final-Project)**: Building a custom USB logic analyzer built around dual STM32F446RE Nucleo boards, developed as part of an ECE 692 embedded systems team project at NJIT. The receiver captures 8 digital channels at 1MHz using timer-driven DMA, while CAN frames are decoded in hardware via the onboard bxCAN peripheral. Packetized data streams over USB CDC to a Go-based decoder for UART, SPI, and I2C protocol analysis, with Python for handling real-time waveform visualization.
