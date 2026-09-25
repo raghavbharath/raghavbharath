@@ -1,6 +1,6 @@
 # Hi, I'm Raghav! 
 
-I'm a **Computer Engineering** junior at the **NJIT Albert Dorman Honors College** (Class of 2027), minoring in **Applied Mathematics**. I really enjoy working at the intersection of hardware and firmware, from schematic capture and PCB layout to bare-metal drivers and RTOS task architecture. I'm trying to always be in the middle of some project or another, and I'm looking to bring that same energy into an internship or co-op.
+I'm a **Computer Engineering** senior at the **NJIT Albert Dorman Honors College** (Class of 2027), minoring in **Applied Mathematics**. I really enjoy working at the intersection of hardware and firmware, from schematic capture and PCB layout to bare-metal drivers and RTOS task architecture. I always try to be in the middle of some project or another, and I'm looking to bring that same energy into any full-time role.
 
 ### What I'm currently working on:
 - **[Logic Analyzer](https://github.com/raghavbharath/usb-logic-analyzer.git)**: Built a custom USB logic analyzer built around dual STM32F446RE Nucleo boards, developed as part of an ECE 692 embedded systems team project at NJIT. The receiver captured 8 digital channels at 1MHz using timer-driven DMA, while CAN frames are decoded in hardware via the onboard bxCAN peripheral. Packetized data streams over USB CDC to a Go-based decoder for UART, SPI, and I2C protocol analysis, with Python for handling real-time waveform visualization.
@@ -11,8 +11,8 @@ I'm a **Computer Engineering** junior at the **NJIT Albert Dorman Honors College
 ### Skills
 | Stack | Tools |
 |---|---|
-| Languages | C, C++, Python, MATLAB, Java, Scala, SQL, Verilog, VHDL, Assembly (RISC-V, ARM Cortex-M) |
-| Embedded & Firmware | STM32 HAL, FreeRTOS, ESP-IDF, X-CUBE-AI, OpenOCD, JTAG/SWD |
+| Languages | C, C++, Python, MATLAB, Java, Kotlin, Scala, SQL, Verilog, VHDL, Assembly (RISC-V, ARM Cortex-M) |
+| Embedded & Firmware | STM32 (HAL, CubeIDE, CubeMX), FreeRTOS, ESP-IDF, X-CUBE-AI, OpenOCD, JTAG/SWD |
 | PCB & Hardware | KiCad, STM32CubeIDE, STM32CubeMX, Fusion 360, Oscilloscope, Multimeter, Logic Analyzer |
 | Software & Tools | Linux (Ubuntu), Git, CMake, GDB, PlatformIO, Jira, Jenkins, Gem5, ROS2 |
 | Libraries & Frameworks | PyTorch, NumPy, Matplotlib, OpenCV, Scikit-Learn, MuJoCo |
