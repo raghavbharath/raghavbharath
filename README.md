@@ -12,10 +12,10 @@ I'm a **Computer Engineering** senior at the **NJIT Albert Dorman Honors College
 | Stack | Tools |
 |---|---|
 | Languages | C, C++, Python, MATLAB, Java, Kotlin, Scala, SQL, Verilog, VHDL, Assembly (RISC-V, ARM Cortex-M) |
-| Embedded & Firmware | STM32 (HAL, CubeIDE, CubeMX), FreeRTOS, ESP-IDF, X-CUBE-AI, OpenOCD, JTAG/SWD |
-| PCB & Hardware | KiCad, STM32CubeIDE, STM32CubeMX, Fusion 360, Oscilloscope, Multimeter, Logic Analyzer |
-| Software & Tools | Linux (Ubuntu), Git, CMake, GDB, PlatformIO, Jira, Jenkins, Gem5, ROS2 |
-| Libraries & Frameworks | PyTorch, NumPy, Matplotlib, OpenCV, Scikit-Learn, MuJoCo |
+| Embedded & Firmware | STM32 (HAL, CubeIDE, CubeMX), FreeRTOS, ESP-IDF, OpenOCD, JTAG/SWD |
+| Hardware Design & Tools | KiCad, Altium, HSPICE, LTspice, Quartus/ModelSim (FPGAs), Oscilloscope, Multimeter, Logic Analyzer |
+| Software & Tools | Linux, Git, CMake, GDB, PlatformIO, Jira, Jenkins, Gem5, ROS2 |
+| Libraries & Frameworks | Spring Boot, PyTorch, NumPy, Matplotlib, OpenCV, Scikit-Learn, MuJoCo |
 
 ### Let's Connect
 Outside of engineering, I'm into basketball, boxing, and anything to do with space and the universe. If any of that resonates, or you just want to talk projects, feel free to reach out!
