@@ -11,11 +11,13 @@ I'm a **Computer Engineering** senior at the **NJIT Albert Dorman Honors College
 ### Skills
 | Stack | Tools |
 |---|---|
-| Languages | C, C++, Python, MATLAB, Java, Kotlin, Scala, SQL, Verilog, VHDL, Assembly (RISC-V, ARM Cortex-M) |
-| Embedded & Firmware | STM32 (HAL, CubeIDE, CubeMX), FreeRTOS, ESP-IDF, OpenOCD, JTAG/SWD |
-| Hardware Design & Tools | KiCad, Altium, HSPICE, LTspice, Quartus/ModelSim (FPGAs), Oscilloscope, Multimeter, Logic Analyzer |
+| Languages | C, C++, Python, MATLAB, Java, Kotlin, CUDA, Go, SQL, Verilog, VHDL, Assembly (RISC-V, ARM Cortex-M) |
+| Embedded & Firmware | STM32 (HAL, CubeIDE, CubeMX), FreeRTOS, ESP-IDF, OpenOCD |
+| Protocols | UART, I<sup>2</sup>C, SPI, CAN, BLE, SWD, USB 2.0 |
+| Hardware Design | KiCad, Altium, Synopsys VLSI Tools (HSPICE, Custom Compiler, IC Validator), LTspice, Quartus/ModelSim (FPGAs)  |
 | Software & Tools | Linux, Git, CMake, GDB, PlatformIO, Jira, Jenkins, Gem5, ROS2 |
-| Libraries & Frameworks | Spring Boot, PyTorch, NumPy, Matplotlib, OpenCV, Scikit-Learn, MuJoCo |
+| Libraries & Frameworks | Spring Boot, PyTorch, NumPy, Matplotlib, OpenCV, SciPy, PyQt, IsaacSim |
+| Lab Equipment | Oscilloscope, Digital Multimeter, Logic Analyzer, Waveform Generator, Power Supply |
 
 ### Let's Connect
 Outside of engineering, I'm into basketball, boxing, and anything to do with space and the universe. If any of that resonates, or you just want to talk projects, feel free to reach out!
